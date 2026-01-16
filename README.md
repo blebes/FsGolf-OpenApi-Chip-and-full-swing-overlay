@@ -1,3 +1,5 @@
+download the .zip file and extract to a folder. create a shortcut to the exe on your desktop. Run the .exe and follow the intructions here or from the text file in the .zip
+
 How to set it up (Do this once):
 Because your screen size is different than mine, you have to teach the app where the buttons are.
 
