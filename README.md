@@ -11,7 +11,7 @@ It will do this twice. Once for X coordinates and once for Y Coordinates.
 ​Right-Click the "Full" button and do the same thing for the Full Swing mode.
 It will do this twice. Once for X coordinates and once for Y Coordinates.
 
-This only has to be done once. if somethinf changes just follow steps above to redo.
+This only has to be done once. if something changes just follow steps above to redo.
 
 ​How to use it:
 Just click "Chip" or "Full" on the overlay whenever you need to switch.
